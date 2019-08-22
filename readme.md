@@ -1,4 +1,4 @@
-* This is just to more practice use of Node and Express
+* This is just to practice more the use of Node and Express
 
 * This is a simple Express calculator application with one get route that is able to take in three parameters: an operation and two numbers.
 
